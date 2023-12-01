@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+table{
+	margin:0 auto;
+}
+td{
+	padding:5px;
+	border-width:1px;
+}
+.title>td{
+	text-align:center;
+	background-color:#51cdff;
+}
+.list>td{
+	background-color:#f8fc6a;
+}
+.col_short{
+	width:50px;
+}
+.col_operate{
+	width:90px;
+}

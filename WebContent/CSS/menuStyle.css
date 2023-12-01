@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	text-align:center;
+}
+input{
+	margin:10px auto;
+}
+.topButton{
+	margin-top:50px;
+}
+input[type=button]{
+	height:3em;
+	width:7em;
+}

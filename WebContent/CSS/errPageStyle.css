@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+*{
+	text-align:center;
+}
+h1{
+	color:red;
+	margin-top:2em;
+}
